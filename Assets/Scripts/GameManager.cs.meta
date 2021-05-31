@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 767b8810d5c92e44b995ae399874e0f4
+timeCreated: 1520076633
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player1: {instanceID: 0}
+  - Player2: {instanceID: 0}
+  - P1Win: {instanceID: 0}
+  - P2Win: {instanceID: 0}
+  - Draw: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
